@@ -68,6 +68,23 @@ The project was built to demonstrate a real-world, production-style implementati
 - Real-time status tracking and approval timeline
 - Centralized pending-approvals dashboard
 
+  ### 📱 QR Code Integration
+-Generate QR Code for each approved booking
+-QR code contains booking ID, room details, date, and time
+-QR code automatically generated upon approval
+-Download/print QR code as image or PDF
+-QR code expires after booking end time for security
+
+### 📲 Scan QR Code Feature
+-Scan QR Code to instantly view booking approval status
+-Real-time validation showing:
+-Booking status (Approved/Pending/Rejected)
+-Room details and location
+-Booking schedule (date & time)
+-Approver information and timestamp
+-Mobile-friendly scanner interface
+
+
 ### 👥 User & Role Management
 - Secure authentication via **JWT**
 - Fine-grained **Role-Based Access Control (RBAC)**

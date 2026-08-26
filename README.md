@@ -234,6 +234,12 @@ booking_room_system/
 ## Result scan- QRcode
 <img width="1843" height="900" alt="image" src="https://github.com/user-attachments/assets/d2ad5777-c0e1-4ceb-a587-f166e918a83b" />
 
+## Report
+<img width="1905" height="961" alt="image" src="https://github.com/user-attachments/assets/a8654916-f228-4660-86fd-af0de733245d" />
+
+<img width="1915" height="927" alt="image" src="https://github.com/user-attachments/assets/3f2a3ad0-52be-4b45-9bf2-ae3adb209fc5" />
+
+
 ---
 
 # License

@@ -68,12 +68,17 @@ The project was built to demonstrate a real-world, production-style implementati
 - Real-time status tracking and approval timeline
 - Centralized pending-approvals dashboard
 
-  ### 📱 QR Code Integration
--Generate QR Code for each approved booking
--QR code contains booking ID, room details, date, and time
--QR code automatically generated upon approval
--Download/print QR code as image or PDF
--QR code expires after booking end time for security
+### 👥 User & Role Management
+- Secure authentication via **JWT**
+- Fine-grained **Role-Based Access Control (RBAC)**
+- Self-service profile management & password changes
+- Full activity/audit logging
+
+### 📱 QR Code Integration
+- Unique QR Code generated automatically for every booking
+- Live camera-based QR scanning for instant verification
+- Downloadable & printable QR Codes
+- One-tap approve/reject directly from a scanned booking
 
 ### 📲 Scan QR Code Feature
 -Scan QR Code to instantly view booking approval status
@@ -84,12 +89,11 @@ The project was built to demonstrate a real-world, production-style implementati
 -Approver information and timestamp
 -Mobile-friendly scanner interface
 
-
-### 👥 User & Role Management
-- Secure authentication via **JWT**
-- Fine-grained **Role-Based Access Control (RBAC)**
-- Self-service profile management & password changes
-- Full activity/audit logging
+### 📈 Reports & Analytics
+- Booking trends by day, week, and month
+- Status distribution (pie chart) and room usage (bar chart)
+- Advanced filters (date range, status, room)
+- One-click export to Excel
 
 **Supported roles:**
 | Role | Responsibilities |
@@ -106,18 +110,6 @@ The project was built to demonstrate a real-world, production-style implementati
 - Room utilization metrics
 - Recent-activity feed
 - Role-aware dashboard views with interactive charts
-
-### 📱 QR Code Integration
-- Unique QR Code generated automatically for every booking
-- Live camera-based QR scanning for instant verification
-- Downloadable & printable QR Codes
-- One-tap approve/reject directly from a scanned booking
-
-### 📈 Reports & Analytics
-- Booking trends by day, week, and month
-- Status distribution (pie chart) and room usage (bar chart)
-- Advanced filters (date range, status, room)
-- One-click export to Excel
 
 ### 🔒 Security
 - JWT authentication with password hashing (**bcrypt**)

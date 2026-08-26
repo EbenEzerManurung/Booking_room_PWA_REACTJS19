@@ -156,7 +156,7 @@ Responsive across **Desktop**, **Tablet**, and **Mobile**.
                                │
                   Node.js + Express Backend
                                │
-                            MySQL2
+                            MySQL
                                │
                              MySQL 8.0
 ```

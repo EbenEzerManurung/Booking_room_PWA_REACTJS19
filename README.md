@@ -222,6 +222,18 @@ booking_room_system/
 ## Ruangan
 <img width="1912" height="943" alt="image" src="https://github.com/user-attachments/assets/374f53fe-e992-4840-b623-232107c547fc" />
 
+## Booking
+<img width="1918" height="934" alt="image" src="https://github.com/user-attachments/assets/15c3392d-ebc7-466d-af78-a661cfec07ff" />
+
+## Approval - QRcode
+<img width="1726" height="766" alt="image" src="https://github.com/user-attachments/assets/8f45d451-c4b0-4cb2-abc1-e7ceb20fc4f9" />
+
+## Scan - QRcode
+<img width="1891" height="844" alt="image" src="https://github.com/user-attachments/assets/33457f90-0d1a-4f6a-9f4c-65712523e092" />
+
+## Result scan- QRcode
+<img width="1843" height="900" alt="image" src="https://github.com/user-attachments/assets/d2ad5777-c0e1-4ceb-a587-f166e918a83b" />
+
 ---
 
 # License

@@ -1,0 +1,56 @@
+{
+  "name": "Booking Room System",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "generate-icons": "node scripts/generate-icons.js"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@hookform/resolvers": "^3.9.0",
+    "@mui/icons-material": "^6.5.0",
+    "@mui/material": "^6.5.0",
+    "@mui/system": "^9.3.0",
+    "@mui/x-date-pickers": "^6.20.2",
+    "@tanstack/react-query": "^5.51.0",
+    "@tanstack/react-table": "^8.19.0",
+    "@zxing/library": "^0.23.0",
+    "axios": "^1.7.2",
+    "chart.js": "^4.5.1",
+    "date-fns": "^2.30.0",
+    "html5-qrcode": "^2.3.8",
+    "qr-scanner": "^1.4.2",
+    "qrcode.react": "^3.2.0",
+    "react": "^19.2.8",
+    "react-chartjs-2": "^5.3.1",
+    "react-dom": "^19.2.8",
+    "react-hook-form": "^7.52.0",
+    "react-qr-reader": "^2.2.1",
+    "react-qr-scanner": "^1.0.0-alpha.11",
+    "react-router-dom": "^6.23.1",
+    "xlsx": "^0.18.5",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39",
+    "sharp": "^0.33.4",
+    "tailwindcss": "^3.4.4",
+    "vite": "^5.4.0",
+    "vite-plugin-pwa": "^0.20.0"
+  },
+  "overrides": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "@mui/material": {
+      "react": "^19.2.8"
+    }
+  }
+}

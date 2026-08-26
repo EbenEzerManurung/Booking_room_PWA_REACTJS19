@@ -6,7 +6,7 @@ Designed to streamline the entire room booking lifecycle—from room reservation
 Designed to improve operational efficiency, strengthen room utilization governance, and provide a secure, traceable, and scalable platform for enterprise room management.
 
 🚀 Technology Stack
-<p align="center">
+<div align="center">
 https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react
 https://img.shields.io/badge/Vite-5.4-646CFF?style=for-the-badge&logo=vite
 https://img.shields.io/badge/Node.js-18-339933?style=for-the-badge&logo=node.js
@@ -14,8 +14,9 @@ https://img.shields.io/badge/Express-4.22-000000?style=for-the-badge&logo=expres
 https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql
 https://img.shields.io/badge/PWA-Enabled-5A0FC8?style=for-the-badge&logo=pwa
 https://img.shields.io/badge/MUI-5.15-007FFF?style=for-the-badge&logo=mui
+https://img.shields.io/badge/JWT-Secure-000000?style=for-the-badge&logo=json-web-tokens
 
-</p>
+</div>
 📖 Overview
 This project demonstrates an enterprise-grade room booking workflow commonly implemented within corporate organizations.
 

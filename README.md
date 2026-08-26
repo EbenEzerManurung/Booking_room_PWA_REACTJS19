@@ -213,6 +213,11 @@ booking_room_system/
 
 <img width="1864" height="927" alt="image" src="https://github.com/user-attachments/assets/f7375bde-7594-4abc-b877-d6589a77f080" />
 
+## PWA
+<img width="1918" height="852" alt="image" src="https://github.com/user-attachments/assets/6b73747f-983d-4b81-8c6e-d3252ecea21a" />
+
+## Dashboard
+<img width="1891" height="789" alt="image" src="https://github.com/user-attachments/assets/43ca0611-da15-4180-b940-b143d13e1257" />
 
 ---
 

@@ -210,114 +210,17 @@ booking_room_system/
 
 ## 📸 Screenshots
 
-> Replace the placeholders below with real screenshots (`docs/screenshots/*.png`) before publishing.
-
-| Login Page | Dashboard |
-|---|---|
-| ![Login Page](https://via.placeholder.com/500x300?text=Login+Page) | ![Dashboard](https://via.placeholder.com/500x300?text=Dashboard) |
-
-| Booking Management | Approval Workflow |
-|---|---|
-| ![Booking Management](https://via.placeholder.com/500x300?text=Booking+Management) | ![Approval System](https://via.placeholder.com/500x300?text=Approval+System) |
-
-| QR Code Scanner | Reports & Analytics |
-|---|---|
-| ![QR Code Scanner](https://via.placeholder.com/500x300?text=QR+Code+Scanner) | ![Reports](https://via.placeholder.com/500x300?text=Reports+%26+Analytics) |
 
 ---
 
-## 🚀 Getting Started
+# License
 
-### Prerequisites
-
-- **Node.js** 18 or higher
-- **MySQL** 8.0 or higher
-- **npm** or **yarn**
-- **Git**
-
-### Installation
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/<your-username>/booking_room_system.git
-cd booking_room_system
-
-# 2. Install backend dependencies
-cd backend
-npm install
-cp .env.example .env   # configure DB credentials & JWT secret
-
-# 3. Set up the database
-mysql -u root -p < database/schema.sql
-
-# 4. Run the backend
-npm run dev
-
-# 5. Install frontend dependencies (in a new terminal)
-cd ../frontend
-npm install
-
-# 6. Run the frontend
-npm run dev
-```
-
-The app will be available at `http://localhost:5173` (frontend) and `http://localhost:5000` (API), or as configured in your `.env` files.
-
-### Environment Variables
-
-Create a `.env` file in `backend/` based on `.env.example`, including at minimum:
-
-```env
-PORT=5000
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=
-DB_NAME=booking_room_system
-JWT_SECRET=your_jwt_secret
-SESSION_SECRET=your_session_secret
-```
+MIT License
 
 ---
 
-## 🗺 Roadmap
+# Author
 
-- [ ] Email / push notifications for approval status changes
-- [ ] Calendar (iCal) integration
-- [ ] Multi-language support (i18n)
-- [ ] Docker Compose setup for one-command deployment
-- [ ] Automated test suite (unit + integration)
+**Eben Nezer Manurung**
 
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to open an issue or submit a pull request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
-**[Your Name]**
-Full-Stack Developer
-
-- Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com)
-- Email: your.email@example.com
-
-<div align="center">
-
-If this project was helpful or interesting, consider giving it a ⭐ — it helps a lot!
-
-</div>
+Backend Developer • Full Stack Developer

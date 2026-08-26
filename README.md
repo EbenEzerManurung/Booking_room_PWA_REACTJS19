@@ -219,6 +219,9 @@ booking_room_system/
 ## Dashboard
 <img width="1891" height="789" alt="image" src="https://github.com/user-attachments/assets/43ca0611-da15-4180-b940-b143d13e1257" />
 
+## Ruangan
+<img width="1912" height="943" alt="image" src="https://github.com/user-attachments/assets/374f53fe-e992-4840-b623-232107c547fc" />
+
 ---
 
 # License

@@ -68,12 +68,6 @@ The project was built to demonstrate a real-world, production-style implementati
 - Real-time status tracking and approval timeline
 - Centralized pending-approvals dashboard
 
-### 👥 User & Role Management
-- Secure authentication via **JWT**
-- Fine-grained **Role-Based Access Control (RBAC)**
-- Self-service profile management & password changes
-- Full activity/audit logging
-
 ### 📱 QR Code Integration
 - Unique QR Code generated automatically for every booking
 - Live camera-based QR scanning for instant verification
@@ -94,6 +88,13 @@ The project was built to demonstrate a real-world, production-style implementati
 - Status distribution (pie chart) and room usage (bar chart)
 - Advanced filters (date range, status, room)
 - One-click export to Excel
+
+### 👥 User & Role Management
+- Secure authentication via **JWT**
+- Fine-grained **Role-Based Access Control (RBAC)**
+- Self-service profile management & password changes
+- Full activity/audit logging
+
 
 **Supported roles:**
 | Role | Responsibilities |

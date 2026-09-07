@@ -31,7 +31,7 @@
 
 ## 📖 Overview
 
-**Booking Room System** is an enterprise-grade meeting room reservation platform designed to replace manual, spreadsheet-driven booking processes with a secure, auditable, and fully digital workflow.
+**Booking Room System** is an enterprise meeting room reservation platform designed to replace manual, spreadsheet-driven booking processes with a secure, auditable, and fully digital workflow.
 
 Built on a scalable RESTful architecture with **Progressive Web App (PWA)** capabilities, the system enables employees to reserve rooms in seconds, allows approvers to review requests through a structured multi-level workflow, and gives facility staff a fast, camera-based way to verify booking authenticity through **QR Code scanning** — all from any desktop or mobile device.
 

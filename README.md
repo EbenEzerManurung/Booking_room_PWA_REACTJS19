@@ -252,14 +252,22 @@ booking_room_system/
 
 ---
 
-# License
+## 📄 License
 
-MIT License
+This project is licensed under the **MIT License** — see the [LICENSE](https://tlo.mit.edu/resources/mit-github) file for details.
 
 ---
 
-# Author
+## 👨‍💻 Author
 
 **Eben Nezer Manurung**
+Full Stack Developer • Backend Engineer
 
-Backend Developer • Full Stack Developer
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EbenEzerManurung)
+
+
+⭐ **If this project helped you, please consider giving it a star!**
+
+</div>
+
+<div align="center">
